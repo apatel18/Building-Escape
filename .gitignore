@@ -15,3 +15,6 @@ BuildingEscape/Content/StarterContent/
 BuildingEscape/Content/InfinityBladeFireLands/
 BuildingEscape/Content/GTFreeMaterials/
 *.suo
+MyProject/Content/StarterContent/
+BuildingEscape/Content/Textures/
+BuildingEscape/Content/Materials/
