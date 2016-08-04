@@ -23,6 +23,9 @@ public:
 
 private:
 	float Reach = 100.f;
-		
+	UPhysicsHandleComponent* PhysicsHandle = nullptr;
+	UInputComponent* InputComponent = nullptr;
+	// StART raycast and grab whats in reach
+	void Grab();
 	
 };
